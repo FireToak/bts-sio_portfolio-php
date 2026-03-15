@@ -11,3 +11,12 @@ Ce portfolio est issu d'un travaux pratique dans le cours de référence web pro
 |\public # Contennant les fichiers php du site
 ```
 
+---
+## Section du portfolio
+
+- [ ] Header
+- [ ] Présentation personnel
+- [ ] Présentation BTS SIO
+- [ ] CV
+- [ ] Projets
+- [ ] Contact

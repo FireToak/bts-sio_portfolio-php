@@ -149,13 +149,62 @@
                     <div class="row gx-5 justify-content-center">
                         <div class="col-xxl-8">
                             <div class="text-center my-5">
-                                <h2 class="display-5 fw-bolder"><span class="text-gradient d-inline">About Me</span></h2>
-                                <p class="lead fw-light mb-4">My name is Start Bootstrap and I help brands grow.</p>
-                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit dolorum itaque qui unde quisquam consequatur autem. Eveniet quasi nobis aliquid cumque officiis sed rem iure ipsa! Praesentium ratione atque dolorem?</p>
+                                <h2 class="display-5 fw-bolder"><span class="text-gradient d-inline">À propos</span></h2>
+                                <p class="lead fw-light mb-4"></p>
+                                <p class="text-start fs-5">
+                                    Je m'appelle Louis, passionné et autodidacte
+                                     dans le domaine de l'administration système.
+                                     Actuellement, je prépare un BTS SIO
+                                     (Services Informatiques aux Organisations)
+                                     au lycée Paul Louis Courier.
+                                </p>
+                                <p class="text-start fs-5">
+                                    Je consacre la majeure partie de mon temps libre
+                                     à me tenir informé des nouvelles technologies
+                                     et à pratiquer pour développer de nouvelles compétences.
+                                     J'ai également transformé un ordinateur de bureau Z440
+                                     en serveur chez moi, sous VMware ESXi, où je gère
+                                     différentes machines virtuelles sous Linux pour
+                                     des services tels qu'OpenVPN, Docker, Nextcloud,
+                                     Traefik et de l'hébergement web. 
+                                </p>
                                 <div class="d-flex justify-content-center fs-2 gap-4">
                                     <a class="text-gradient" href="#!"><i class="bi bi-twitter"></i></a>
                                     <a class="text-gradient" href="#!"><i class="bi bi-linkedin"></i></a>
                                     <a class="text-gradient" href="#!"><i class="bi bi-github"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Presentation BTS SIO Section-->
+            <section class="py-5">
+                <div class="container px-5">
+                    <div class="row gx-5 justify-content-center">
+                        <div class="col-xxl-8">
+                            <div class="text-center my-5">
+                                <h2 class="display-5 fw-bolder"><span class="text-gradient d-inline">BTS SIO</span></h2>
+                                <p class="lead fw-light mb-4"></p>
+                                <p class="text-start fs-5">
+                                    Le BTS Services Informatiques aux
+                                     Organisations est une formation
+                                     en deux ans qui prépare aux métiers
+                                     de l'informatique. Il propose deux
+                                     spécialités distinctes, adaptées aux
+                                     différents profils et aspirations
+                                     professionnelles. 
+                                </p>
+                                <p class="text-gradient text-start fs-3 fw-bold">Objectifs du BTS :</p>
+                                <ul class="text-start fs-5">
+                                    <li class="mb-2">Former des professionnels polyvalents en informatique, capables d'intervenir sur les infrastructures, les réseaux, et les systèmes d'information.</li>
+                                    <li class="mb-2">Développer des compétences techniques en programmation, administration système, cybersécurité, et gestion de bases de données.</li>
+                                    <li class="mb-2">Préparer à la gestion de projets informatiques en intégrant des méthodes agiles et des bonnes pratiques de travail collaboratif.</li>
+                                    <li class="mb-2">Faciliter l'insertion professionnelle ou la poursuite d'études (licences, écoles d'ingénieurs) grâce à une formation équilibrée entre théorie et pratique (stages, projets concrets).</li>
+                                </ul>
+                                <div class="d-flex justify-content-center fs-2 gap-4">
+                                    <a class="text-gradient btn btn-primary" href="https://lycee-paul-louis-courier.fr" target="_blank">Site du lycée</a>
+                                    <a class="text-gradient btn btn-primary" href="https://www.onisep.fr/ressources/univers-formation/formations/post-bac/bts-services-informatiques-aux-organisations-option-b-solutions-logicielles-et-applications-metiers" target="_blank">ONISEP</a>
                                 </div>
                             </div>
                         </div>

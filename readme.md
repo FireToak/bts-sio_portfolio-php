@@ -38,8 +38,8 @@ Ce portfolio est un travail pratique réalisé dans le cadre du cours de Référ
 1.  **Cloner le dépôt localement :**
 
 ```bash
-git clone <URL_DU_DEPOT>
-cd <NOM_DU_DOSSIER>
+git clone https://github.com/FireToak/bts-sio_portfolio-php.git
+cd bts-sio_portfolio-php
 ```
 
   * `git clone` : Cette commande permet de copier l'intégralité du code source depuis le serveur distant (GitHub) vers votre ordinateur.

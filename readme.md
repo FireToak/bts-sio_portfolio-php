@@ -14,10 +14,10 @@ Ce portfolio est issu d'un travaux pratique dans le cours de référence web pro
 ---
 ## Section du portfolio
 
-- [ ] Responsive
+- [x] Responsive
 - [x] Header
 - [x] Présentation personnel
 - [x] Présentation BTS SIO
 - [ ] CV
 - [ ] Projets
-- [ ] Contact
+- [x] Contact

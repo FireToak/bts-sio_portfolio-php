@@ -1,0 +1,14 @@
+.project-banner-wrap {
+--bs-aspect-ratio: 38%;
+}
+
+.project-banner {
+object-fit: cover;
+object-position: center;
+}
+
+@media (max-width: 576px) {
+.project-banner-wrap {
+--bs-aspect-ratio: 32%;
+}
+}

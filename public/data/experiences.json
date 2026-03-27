@@ -1,0 +1,23 @@
+[
+    {
+        "date": "Stage - décembre 2024 ",
+        "status": "Administration système",
+        "entreprise": "Hutchinson",
+        "ville": "Joué-lès-Tours",
+        "description": "Migration de parc Windows, déploiement de serveurs 2025 et configuration d'équipements réseau Cisco."
+    },
+    {
+        "date": "Stage - juin 2024",
+        "status": "Administration système",
+        "entreprise": "Hutchinson",
+        "ville": "Joué-lès-Tours",
+        "description": "Migration Windows 11, préparation complète des postes (logiciels, données) et rédaction de procédures techniques."
+    },
+    {
+        "date": "Stage - février 2024",
+        "status": "Infogérance",
+        "entreprise": "APB MULTIMEDIA",
+        "ville": "Tours",
+        "description": "Déploiement d'infrastructure Windows Server 2022 (AD, Hyper-V), refonte et configuration du réseau Zyxel, préparation des postes et support technique utilisateur."
+    }
+]

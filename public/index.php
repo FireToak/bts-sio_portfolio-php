@@ -6,7 +6,6 @@
             <header class="py-5">
                 <div class="container px-5 pb-5">
                     <div class="row gx-5 align-items-center">
-                        <h1 class="text-center">
                             <!--- Récupération des données et configuration de l'heure --->
                             <?php
 
@@ -28,7 +27,11 @@
                             
                             ?>
 
-                            <h1 class="text-center"><?= $salutation ?>, je m'appelle <span class="fw-bold"><?= $nom ?></span> et il est <?= $heure ?>.</h1>
+                            <div class="card border-info mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title text-center"><?= $salutation ?>, je m'appelle <span class="fw-bold"><?= $nom ?></span> et il est <?= $heure ?>.</h5>
+                            </div>
+                            </div>
 
                         <div class="col-xxl-5">
                             <!-- Header text content-->

@@ -27,7 +27,7 @@
                             
                             ?>
 
-                            <div class="card border-info mb-3">
+                            <div class="card border-info mb-3 ">
                             <div class="card-body">
                                 <h5 class="card-title text-center"><?= $salutation ?>, je m'appelle <span class="fw-bold"><?= $nom ?></span> et il est <?= $heure ?>.</h5>
                             </div>

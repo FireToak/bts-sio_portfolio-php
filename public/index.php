@@ -6,6 +6,30 @@
             <header class="py-5">
                 <div class="container px-5 pb-5">
                     <div class="row gx-5 align-items-center">
+                        <h1 class="text-center">
+                            <!--- Récupération des données et configuration de l'heure --->
+                            <?php
+
+                            // Récupération des données
+                            $config_php = "./config.php";
+                            $donnees_config = file_get_contents($config_php);
+
+                            // Configuration de l'heure
+                            date_default_timezone_set('Europe/Paris');
+                            $heure = date("H:i");
+
+                            // Configuration de la salutation
+                            if (date("H") >= 20 || date("H") < 7) {
+                                $salutation = "Bonsoir";
+                            }
+                            else {
+                                $salutation = "Bonjour";
+                            }
+                            
+                            ?>
+
+                            <h1 class="text-center"><?= $salutation ?>, je m'appelle <span class="fw-bold"><?= $nom ?></span> et il est <?= $heure ?>.</h1>
+
                         <div class="col-xxl-5">
                             <!-- Header text content-->
                             <div class="text-center text-xxl-start">
@@ -22,8 +46,6 @@
                             <!-- Header profile picture-->
                             <div class="d-flex justify-content-center mt-5 mt-xxl-0">
                                 <div class="profile bg-gradient-primary-to-secondary">
-                                    <!-- TIP: For best results, use a photo with a transparent background like the demo example below-->
-                                    <!-- Watch a tutorial on how to do this on YouTube (link)-->
                                     <img class="profile-img" src="/assets/img/photo_louis-medo.png" alt="Photo de Louis MEDO" />
                                     <div class="dots-1">
                                         <!-- SVG Dots-->

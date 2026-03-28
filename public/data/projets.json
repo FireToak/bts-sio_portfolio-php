@@ -4,20 +4,31 @@
         "description": "Création d'un site vitrine de la startup ArkAI en HTML 5 et en CSS3 dans le cadre d'un TP en Ref. Prog. Web",
         "image": "/assets/banniere-projet/banniere_arkai.png",
         "lien": "https://github.com/FireToak/bts-sio_boostrap-startup-arkai",
-        "competences": ["Développer la présence en ligne de l'organisation", "Travailler en mode projet", "Mettre à disposition des utilisateurs un service informatique"]
+        "competences": ["Développer la présence en ligne de l'organisation", "Travailler en mode projet", "Mettre à disposition des utilisateurs un service informatique"],
+        "termine": "true"
     },
     {
         "titre": "IMDEO",
         "description": "Création d'une infrastructure complète du réseau (routage, NAT) aux services (DNS, DHCP, AD).",
         "image": "/assets/banniere-projet/banniere_imdeo.png",
         "lien": "https://github.com/AP-BTS-SIO-Louis/imdeo",
-        "competences": ["Gérer le patrimoine informatique", "Travailler en mode projet", "Mettre à disposition des utilisateurs un service informatique"]
+        "competences": ["Gérer le patrimoine informatique", "Travailler en mode projet", "Mettre à disposition des utilisateurs un service informatique"],
+        "termine": "true"
     },
     {
         "titre": "Millenuits",
         "description": "Création d'une infrastructure complète du réseau (routage, NAT) aux services (DNS, DHCP, AD).",
         "image": "/assets/banniere-projet/banniere_millenuits.png",
         "lien": "https://github.com/AP-BTS-SIO-Louis/millenuits",
-        "competences": ["Gérer le patrimoine informatique", "Travailler en mode projet", "Mettre à disposition des utilisateurs un service informatique"]
+        "competences": ["Gérer le patrimoine informatique", "Travailler en mode projet", "Mettre à disposition des utilisateurs un service informatique"],
+        "termine": "false"
+    },
+    {
+        "titre": "Millenuits",
+        "description": "Création d'une infrastructure complète du réseau (routage, NAT) aux services (DNS, DHCP, AD).",
+        "image": "/assets/banniere-projet/banniere_millenuits.png",
+        "lien": "https://github.com/AP-BTS-SIO-Louis/millenuits",
+        "competences": ["Gérer le patrimoine informatique", "Travailler en mode projet", "Mettre à disposition des utilisateurs un service informatique"],
+        "termine": "false"
     }
 ]

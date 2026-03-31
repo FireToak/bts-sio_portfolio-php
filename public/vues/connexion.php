@@ -3,8 +3,8 @@
 <?php include '../includes/header.php'; ?>
 
 <section class="container">
-    <div class="row d-flex justify-content-center">
-        <form action="/checklogin.php" method="POST" class="col-md-4 bg-light rounded-4 p-5 mt-5">
+    <div class="row d-flex justify-content-center m-2 mt-5">
+        <form action="/checklogin.php" method="POST" class="col-md-4 bg-light rounded-4 p-5">
             
             <div class="text-center">
                 <div class="feature bg-primary bg-gradient-primary-to-secondary text-white rounded-3 mb-3"><i class="bi bi-person-circle"></i></div>

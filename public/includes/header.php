@@ -19,9 +19,8 @@
     <link href="/assets/css/projet.css" rel="stylesheet" >
 </head>
 
-<body>
+<body class="d-flex flex-column min-vh-100">
     <header>
-            <!-- Navigation-->
             <nav class="navbar navbar-expand-lg navbar-light bg-white py-3">
                 <div class="container px-5">
                     <a class="navbar-brand" href="/index.php"><span class="fw-bolder text-primary"><?php echo $nom; ?></span></a>

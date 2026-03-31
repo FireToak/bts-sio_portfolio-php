@@ -75,7 +75,7 @@ include 'includes/header.php';
 
             <div class="row g-4 mb-5">
                 <div class="col-12 col-md-4">
-                    <div class="card border-0 shadow-sm h-100">
+                    <div class="card shadow-sm h-100 bg-light border-info">
                         <div class="card-body">
                             <p class="text-muted mb-2">Nombre de visites</p>
                             <div class="d-flex align-items-center justify-content-between">
@@ -89,7 +89,7 @@ include 'includes/header.php';
                 </div>
 
                 <div class="col-12 col-md-4">
-                    <div class="card border-0 shadow-sm h-100">
+                    <div class="card shadow-sm h-100 bg-light border-info">
                         <div class="card-body">
                             <p class="text-muted mb-2">Projets terminés</p>
                             <div class="d-flex align-items-center justify-content-between">
@@ -103,7 +103,7 @@ include 'includes/header.php';
                 </div>
 
                 <div class="col-12 col-md-4">
-                    <div class="card border-0 shadow-sm h-100">
+                    <div class="card shadow-sm h-100 bg-light border-info">
                         <div class="card-body">
                             <p class="text-muted mb-2">Projets en cours</p>
                             <div class="d-flex align-items-center justify-content-between">

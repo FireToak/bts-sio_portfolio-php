@@ -32,7 +32,7 @@
                             <li class="nav-item"><a class="nav-link" href="/vues/cv.php">CV</a></li>
                             <li class="nav-item"><a class="nav-link" href="/vues/projets.php">Projets</a></li>
                             <li class="nav-item"><a class="nav-link" href="/vues/contact.php">Contact</a></li>
-                            <li class="nav-item"><a class="btn btn-primary nav-link text-white" href="/vues/connexion.php">Connexion</a></li>
+                            <li class="nav-item mx-2"><a class="btn btn-primary nav-link text-white" href="/vues/connexion.php">Connexion</a></li>
                         </ul>
                     </div>
                 </div>

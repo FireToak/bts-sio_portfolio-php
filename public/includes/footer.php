@@ -20,7 +20,7 @@
         <a href="/vues/mentions-legales.php" class="nav-link px-2 text-body-secondary">Mentions légales</a>
         </li>
     </ul>
-    <p class="text-center text-body-secondary">&copy; 2025 Company, Inc</p>
+    <p class="text-center text-body-secondary">&copy; 2025 Louis MEDO, Portfolio</p>
     </footer>
 </body>
 </html>
